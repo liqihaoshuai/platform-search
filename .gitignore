@@ -1,0 +1,19 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local runtime state and credentials
+.config/
+.env
+*.env
+browser_cookies/
+last-run.json
+last-report.json
+doctor-cache.json
+
+# Generated reports and package artifacts
+platforms_*.md
+platforms_*.json
+platforms_*.html
+*.zip
